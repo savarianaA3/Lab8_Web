@@ -4,6 +4,7 @@
 ## Langkah langkah praktikum Lab8Web
 
 ## 1. Menjalankan Xampp
+
 Untuk menjalankan MySQL Server dari menu XAMPP Control.
 
 ![img1!](lab8_php_database/img/Menjalankan Xampp.png)
